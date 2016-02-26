@@ -1,0 +1,7 @@
+.navbar-right:last-child {
+    margin-right: 0px;
+}
+
+.navbar li > a > span {
+    margin-right: 0.2778em;
+}
