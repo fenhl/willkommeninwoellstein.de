@@ -5,3 +5,8 @@
 .navbar li > a > span {
     margin-right: 0.2778em;
 }
+
+#logo-boerse {
+    float: right;
+    max-width: 100%;
+}
